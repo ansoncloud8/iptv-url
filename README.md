@@ -149,7 +149,7 @@
         <p dir="auto">请挂好 <strong>代理</strong> 再添加订阅，否则可能出现 <strong>解析错误</strong></p>
         <p dir="auto"><strong>播放没有画面</strong> 时，请检查自己的网络是否支持 <strong><a href="https://test-ipv6.com/" style="color: blue;text-decoration: underline">IPV6</a></strong></p>
        
-    </article>
+
 </div>
 </body>
 </html> 
