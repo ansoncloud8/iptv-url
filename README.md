@@ -2,8 +2,8 @@
 
 ### APP
 
-- [安卓APP-TiviMate](https://github.com/ansoncloud8/iptv-url/blob/main/【安卓通用】TiviMate 2.1.5 - Premium付费破解版.apk)
-- [索尼电视APP-TiviMate](https://github.com/ansoncloud8/iptv-url/blob/main/【索尼电视】TiviMate-Premium-2.8.0.apk)
+- [安卓APP-TiviMate](https://raw.githubusercontent.com/ansoncloud8/iptv-url/main/%E3%80%90%E5%AE%89%E5%8D%93%E9%80%9A%E7%94%A8%E3%80%91TiviMate%202.1.5%20-%20Premium%E4%BB%98%E8%B4%B9%E7%A0%B4%E8%A7%A3%E7%89%88.apk)
+- [索尼电视APP-TiviMate](https://raw.githubusercontent.com/ansoncloud8/iptv-url/main/%E3%80%90%E7%B4%A2%E5%B0%BC%E7%94%B5%E8%A7%86%E3%80%91TiviMate-Premium-2.8.0.apk)
 - [iPhone端APP-ntplayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
 - [iPhone端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
 - [Mac端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
