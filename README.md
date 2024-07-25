@@ -237,10 +237,6 @@ https://epg.pw/xmltv.html?lang=zh-hant
 ```
 
 ### 备注
-```
 请挂好代理再添加订阅，否则可能出现解析错误
-
-```
-```
 播放没有画面时，请检查自己的网络是否支持 [IPV6](https://test-ipv6.com/)
-```
+
