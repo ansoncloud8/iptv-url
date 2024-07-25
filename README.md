@@ -9,6 +9,15 @@
 </head>
 <body>
     <h1>直播/点播URL集合</a></h1>
+	
+	    - [安卓APP-TiviMate](https://github.com/ansoncloud8/iptv-url/blob/main/【安卓通用】TiviMate 2.1.5 - Premium付费破解版.apk)
+		- [索尼电视APP-TiviMate](https://github.com/ansoncloud8/iptv-url/blob/main/【索尼电视】TiviMate-Premium-2.8.0.apk)
+	    - [iPhone端APP-ntplayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
+		- [iPhone端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
+		- [Mac端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
+		- [Apple TV端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
+		 
+	
 		Ftindy精选
         </h4>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code></code>&nbsp;&nbsp;&nbsp;&nbsp;推荐直播源
