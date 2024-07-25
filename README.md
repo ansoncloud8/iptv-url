@@ -10,12 +10,12 @@
 <body>
     <h1>直播/点播URL集合</a></h1>
 	
-	    - [安卓APP-TiviMate](https://github.com/ansoncloud8/iptv-url/blob/main/【安卓通用】TiviMate 2.1.5 - Premium付费破解版.apk)
-		- [索尼电视APP-TiviMate](https://github.com/ansoncloud8/iptv-url/blob/main/【索尼电视】TiviMate-Premium-2.8.0.apk)
-	    - [iPhone端APP-ntplayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
-		- [iPhone端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
-		- [Mac端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
-		- [Apple TV端APP-aptv](https://apps.apple.com/cn/app/aptv/id1630403500)
+	    <a href="https://github.com/ansoncloud8/iptv-url/blob/main/【安卓通用】TiviMate 2.1.5 - Premium付费破解版.apk">[安卓APP-TiviMate]</a></br>
+		<a href="https://github.com/ansoncloud8/iptv-url/blob/main/【索尼电视】TiviMate-Premium-2.8.0.apk)">[索尼电视APP-TiviMate]</a></br>
+	    <a href="https://apps.apple.com/cn/app/ntplayer/id1613758141)">[iPhone端APP-ntplayer]</a></br>
+		<a href="https://apps.apple.com/cn/app/aptv/id1630403500)">[iPhone端APP-aptv]</a></br>
+		<a href="(https://apps.apple.com/cn/app/aptv/id1630403500)">[Mac端APP-aptv]</a></br>
+		<a href="https://apps.apple.com/cn/app/aptv/id1630403500)">[Apple TV端APP-aptv]</a></br>
 		 
 	
 		Ftindy精选
